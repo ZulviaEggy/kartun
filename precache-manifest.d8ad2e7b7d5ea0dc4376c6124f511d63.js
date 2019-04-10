@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/kartun/static/js/runtime~main.55706f6d.js"
   },
   {
-    "revision": "ba20c9fa6e8962b759c2",
-    "url": "/kartun/static/js/main.ba20c9fa.chunk.js"
+    "revision": "2cea74d95f896fb484ee",
+    "url": "/kartun/static/js/main.2cea74d9.chunk.js"
   },
   {
     "revision": "d82afacfb8046780bdff",
     "url": "/kartun/static/js/2.d82afacf.chunk.js"
   },
   {
-    "revision": "ba20c9fa6e8962b759c2",
+    "revision": "2cea74d95f896fb484ee",
     "url": "/kartun/static/css/main.ac5d74f7.chunk.css"
   },
   {
-    "revision": "64d1672794c7360eb976212ded6f1742",
+    "revision": "efc88d66b7d381368468c675314fa124",
     "url": "/kartun/index.html"
   }
 ];

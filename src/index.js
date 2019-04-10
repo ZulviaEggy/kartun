@@ -23,7 +23,7 @@ const items = [
     {
         name : 'Doraemon',
         color : 'Biru',
-        img : 'Doraemon.png'
+        img : 'Doraemaon.png'
     },
     ];
 

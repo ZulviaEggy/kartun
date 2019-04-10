@@ -2,7 +2,7 @@
   "name": "web3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zulviaeggy.github.io/web-zulvia",
+  "homepage": "https://zulviaeggy.github.io/kartun",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

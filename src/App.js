@@ -8,7 +8,8 @@ class App extends Component {
     super(props);
 
     this.state = {
-      active : 'Home',
+      color : 'Merah',
+      img : 'Larva.png',
 	  
     };
   }
@@ -21,6 +22,7 @@ class App extends Component {
       img:menu.img,
     });
   }
+
 
   /*menusaya(){
     var gambar;
@@ -39,7 +41,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div id="App">
       {/*map akan loop sebanyak menu yang di definisikan */}
       {/*kemudian mengembalikan elemen <a/> */}
       <nav className="nav">{this.props.items.map((menu, index) => {
@@ -62,10 +64,10 @@ class App extends Component {
 
         <div className="info">
          ini adalah <span className={"selected "+this.state.color}> 
-          {this.state.name}
+         {this.state.name}
           </span> 
-          <br></br>
-          <br></br>
+          <br/><br/>
+        
       <img src={this.state.img} width="200"></img>
      
       {/*this.menusaya()*/}
